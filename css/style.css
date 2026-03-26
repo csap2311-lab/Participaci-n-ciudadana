@@ -1,0 +1,19 @@
+img{
+    border:5px groove #2725b6;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #b62525;
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+td{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.table-responsive{
+    margin: 10px;
+    border-color: darkgreen;
+}
